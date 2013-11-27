@@ -1,0 +1,545 @@
+    <!-- start How it works -->
+
+    <div class="howitworks" id="howitoworks">
+        <div class="text-center howitworks-title">How does all this work?</div>
+        <!-- Three columns of text below the carousel -->
+        <div class="row">
+            <div class="col-lg-5 step-panel">
+                <div class="step-text">
+                   <div class="step-img">
+                      <img class="img-square" src="wp-content/themes/buddy-theme/img/step1.png" alt="Generic placeholder image">
+                   </div>
+                   <h2 class="step-heading">Step 1</h2>
+                   <p>Register from your desktop, mobile or iPad. Existing members can use the e-library system to browse and define their learning resources preferences.</p>
+                </div>
+            </div><!-- end step1 -->
+
+            <div class="col-lg-2">
+                <img class="corner-arrows-0" src="wp-content/themes/buddy-theme/img/top-to-bottom.png" />
+            </div>
+
+            <div class="col-lg-5 step-panel">
+                <div class="step-text">
+                    <div class="step-img"><img class="img-square" src="wp-content/themes/buddy-theme/img/step2.png" alt="Step 2"></div>
+                    <h2 class="step-heading">Step 2</h2>
+                    <p>Our child expert visits you to evaluate your child learning abilities, preferences, likings, etc.</p>
+
+</div>
+            </div><!-- end step2 -->
+        </div><!-- end row -->
+        <div class="row"><div class="col-lg-12">&nbsp;</div></div>
+        <div class="row">
+            <div class="col-lg-3">
+                <img class="corner-arrows-4" src="wp-content/themes/buddy-theme/img/report.png" />
+            </div>
+
+            <div class="col-lg-6 step-panel">
+                <div class="step-text">
+                <div class="step-img"><img class="img-square" src="wp-content/themes/buddy-theme/img/step3.png" alt="Step 3"></div>
+
+                    <h2 class="step-heading">Step 3</h2>
+                    <p>We select the correct package of learning resources that meets your child’s age appropriate skill development and recreational needs.</p></div>
+            </div>
+            <div class="col-lg-3">
+                <img class="corner-arrows-1" src="wp-content/themes/buddy-theme/img/delivery.png" />
+            </div>
+        </div><!-- end row -->
+        <div class="row"><div class="col-lg-12">&nbsp;</div></div>
+        <div class="row">
+            <div class="col-lg-5 step-panel">
+                <div class="step-text">
+                <div class="step-img"><img class="img-square" src="wp-content/themes/buddy-theme/img/step6.png" alt="Generic placeholder image"></div>
+                    <h2 class="step-heading">Step 6</h2>
+                    <p>We measure the growth progress of your child based on his performance with the assigned learning resources and your feedback.</p></div>
+            </div>
+            <div class="col-lg-2"> </div>
+            <div class="col-lg-5 step-panel">
+                <div class="step-text">
+                <div class="step-img"><img class="img-square" src="wp-content/themes/buddy-theme/img/step4.png" alt="Generic placeholder image"></div>
+                    <h2 class="step-heading">Step 4</h2>
+                    <p>Get free delivery and pickup of sanitized and neatly packaged fresh toys, games, puzzles, etc. at your doorstep.</p></div>
+            </div>
+        </div><!-- /.row -->
+        <div class="row"><div class="col-lg-12">&nbsp;</div></div>
+
+        <div class="row">
+            <div class="col-lg-3">
+                <img class="corner-arrows-3" src="wp-content/themes/buddy-theme/img/learning-outcomes.png" />
+                <p class="arrow-label-left">Learning Outcomes</p>
+            </div>
+            <div class="col-lg-6 step-panel">
+                <div class="step-text">
+                <div class="step-img"><img class="img-square" src="wp-content/themes/buddy-theme/img/step5.png" alt="Generic placeholder image"></div>
+                    <h2 class="step-heading">Step 5</h2>
+                    <p>Instructions provided with learning resource help your child learn while playing and meet learning outcomes while enjoying the games and toys.</p></div>
+            </div>
+            <div class="col-lg-3">
+                <img class="corner-arrows-2" src="wp-content/themes/buddy-theme/img/learning-objectives.png" />
+                <p class="arrow-label-right">Learning Objectives</p>
+            </div>
+        </div><!-- /.row -->
+      </div><!-- end howitworks -->
+
+<!-- start playnlearn -->
+      <div class="playnlearn" id="playnlearn">
+        <h2 class="text-center playnlearn-title">Secret behind Play n learn method</h2>
+        <ul class="nav nav-tabs" id="myTab">
+            <li class="active"><a href="#myTab1" data-toggle="tab">Holistic child development model</a></li>
+            <li><a href="#myTab2" data-toggle="tab"><img class="img-playnlearntab" src="wp-content/themes/buddy-theme/img/check.png" alt="Generic placeholder image">Parents</a></li>
+            <li><a href="#myTab3" data-toggle="tab"><img class="img-playnlearntab" src="wp-content/themes/buddy-theme/img/check.png" alt="Generic placeholder image">Educators</a></li>
+            <li><a href="#myTab4" data-toggle="tab"><img class="img-playnlearntab" src="wp-content/themes/buddy-theme/img/check.png" alt="Generic placeholder image">Child Counsellors</a></li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane fade in active" id="myTab1">
+                <div class="col-lg-6">
+                    <img class="playnlearn-image" src="wp-content/themes/buddy-theme/img/playnlearn.png" />
+                </div>
+                <div class="col-lg-6">
+                    <div class="  panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="text-center panel-title">Play and Learn - Holistic child growth model</h3>
+                        </div>
+                        <div class="panel-body">
+                            <p class="quote">"Play is our brain's favorite way of learning"</p>
+                            <p class="text-right"><strong>- Diane Ackerman</strong></p>
+                            <p>
+                                Our unique model is based on a holistic approach to child development and growth. This model is based on all round skil development and cognitive development of your child.
+                            </p>
+                            <p>
+                                The model brings together the best out of educators, parents and child development experts who can contribute towards the all-round development of the child.
+                            </p>
+                            <p>
+                                Children love to play with toys and spend lot of their time in playing with them. Children are introduced to toys at an early age.
+                            </p>
+                            <p>
+                                Our model utilizes the bonding children have with toys and their interest in games to deliver learning and skill development. We use the same channel and medium to introduce children to education.
+                                Our child experts continously scan the universe of toys, international and national, and evaluate them for their educational value as well as recreational quality.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- end myTab1-->
+            <div class="tab-pane fade" id="myTab2">
+                <div class="col-lg-6">
+                    <img class="playnlearn-image" src="wp-content/themes/buddy-theme/img/playnlearn-parents.png" />
+                </div>
+                <div class="col-lg-6 ">
+                    <div class="  panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="text-center panel-title">Play and Learn model - Parent's participation</h3>
+                        </div>
+                        <div class="panel-body">
+                            <p class="quote">"We may not be able to prepare the future for our children, but we can at least prepare our children for the future."</p>
+                            <p class="text-right"><strong>- Franklin D. Roosevelt</strong></p>
+                            <p>
+                                Our unique model is based on a holistic approach to child development and growth. This model is based on all round skil development and cognitive development of your child.
+                            </p>
+                            <p>
+                                The model brings together the best out of educators, parents and child development experts who can contribute towards the all-round development of the child.
+                            </p>
+                            <p>
+                                Children love to play with toys and spend lot of their time in playing with them. Children are introduced to toys at an early age.
+                            </p>
+                            <p>
+                                Our model utilizes the bonding children have with toys and their interest in games to deliver learning and skill development. We use the same channel and medium to introduce children to education.
+                            </p>
+                            <p>
+                                Our child experts continously scan the universe of toys, international and national, and evaluate them for their educational value as well as recreational quality.
+                            </p>
+                            <p>
+                                So we smoothen the transition of your child from toy playing to classroom education by throwing out useless toys and replacing them with educational toys. Thus we bring toys to classroom and the classroom to your home through our model of learning resources.
+                            </p>
+                            <p>
+                                Our e-library of learning resources have specific learning outcomes. Our expert recommendations assigns learning resource package to your child depending on his or her specific learning abilities, gaps, recreational needs and preferences. We collect performance measures from you when we pick up toys. This allows us to measure your child's growth and assign next package. The elibrary and home delivery of sanitized, packaged, non-toxic and fresh learning resources saves a lot of your hard earned money.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- end myTab2-->
+            <div class="tab-pane fade" id="myTab3">
+                <div class="col-lg-6">
+                    <img class="playnlearn-image" src="wp-content/themes/buddy-theme/img/playnlearn-educators.png" />
+                </div>
+                <div class="col-lg-6 ">
+                    <div class="  panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="text-center panel-title">Play and Learn model - Educator's role</h3>
+                        </div>
+                        <div class="panel-body">
+                            <p class="quote">"The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires."</p>
+                            <p class="text-right"><strong>—William Arthur Ward</strong></p>
+                            <p>
+                                The model helps schools in understanding their students in a better way. This helps them in providing appropriate attention towards the specific needs of their students.
+                            </p>
+                            <p>
+                                The feedback collected from our system can be shared with the school to help them in their evaluation of your child's unique skills, prefered learnng mode, etc.
+                            </p>
+                            <p>
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- end myTab3-->
+            <div class="tab-pane fade" id="myTab4">
+                <div class="col-lg-6">
+                    <img class="playnlearn-image" src="wp-content/themes/buddy-theme/img/playnlearn-childcounsellors.png" />
+                </div>
+                <div class="col-lg-6 ">
+                    <div class="  panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="text-center panel-title">Play and Learn model - Child development expert's role</h3>
+                        </div>
+                        <div class="panel-body">
+                            <p class="quote">"Minds are like parachutes, they only function when they are open."</p>
+                            <p class="text-right"><strong> —James Dewar </strong></p>
+                            <p>
+                                Our team of child experts have mix of backgrounds in child psychology, child development and game based learning methodology.
+                            </p>
+                            <p>
+                                Once you register with you, one of our child expert will visit you. She is like your personal child counsellor. She will evalute your child's learning abilities and skills. Based on her discussions with you, she will fill out a form that contains details of your child's specific and unique learning requirements. This information is fed in our record system.
+                            </p>
+                            <p>
+                                Based on the evaluation of your child and his unique learning requirements, a package of learning resources is assigned to your child each week.
+                            </p>
+                            <p>
+                                We then collect information on your child's performance with the learning resource to understand his coginitive development.
+                            </p>
+                            <p>
+                                Our child expert will stay with your child, continuously evaluating and assigning learning packages to help your child continue her learning journey.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- end myTab4-->
+        </div>
+      </div><!-- end playnlearn -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- start discussion forum -->
+      <div class="discuss" id="discuss">
+          <h2 class="text-center discuss-title">Discuss, make friends and share experiences</h2>
+          <div class="container discuss-container">
+            <div class="row">
+              <div class="col-lg-4 discuss-well">
+                  <h3>Discuss your issues</h3>
+                    <br /><br /><br />
+                    <p>A question and answer platform by the parent for the parent. </p>
+                    <p>
+                        Discussions are guided by child experts who have background in the field of child
+                    development, child psychology, paedtrics, child educatio and counselling.
+                    </p>
+                    <div class="discuss-cta"><a class="btn btn-sm btn-primary"  href="#contactus" role="button">Register for 1 month Frree trial</a></div>
+              </div>
+              <div class="col-lg-4 discuss-well">
+                  <h3>Make friends on social media</h3>
+                  <br />
+                  <p>
+                    Find and network with other like minded parents of same age children.
+                  </p>
+
+                  <p>
+                      Our forums and blogsare integrated with facebook and twitter to help you login using your facebook or t witter account.
+                  </p>
+                   <div class="discuss-cta"><a href="#"><img src="wp-content/themes/buddy-theme/img/Facebook.png" /></a>&nbsp;<a href="#"><img src="wp-content/themes/buddy-theme/img/twitter.png" /></a>&nbsp;<a href="#"><img src="wp-content/themes/buddy-theme/img/Google%20Plus.png" /></a>&nbsp;<a href="#"><img src="wp-content/themes/buddy-theme/img/Pinterest.png" /></a>&nbsp;<a href="#"><img src="wp-content/themes/buddy-theme/img/YouTube.png" /></a>
+                   </div>
+              </div>
+              <div class="col-lg-4 discuss-well">
+                  <h3>Read informative articles</h3>
+                  <br />
+                  <p>
+                      Our blog contains informative, accurate articles published by leading experts amd professionals with huge experience in the field of child development and counselling.
+                  </p>
+                  <p>
+                      You can connect directly with them, discuss your issues and benefit from their guidance.
+                  </p>
+                    <div class="discuss-cta"><a class="btn btn-sm btn-primary"  href="#contactus" role="button">Visit Blog</a></div>
+              </div>
+           </div> <!-- end row -->
+         </div><!-- end container -->
+      </div><!-- end discuss -->
+
+
+
+
+
+
+
+
+
+
+
+<!---------------- start testimonials ------------------>
+    <div class="container testimonials" id="testimonials">
+        <h2 class="text-center">What are they saying?</h2>
+        <div class="row">
+            <h4>Educators</h4>
+                <div class="col-lg-4">
+                    <div>
+                        <img class="img-circle" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                        This is good a thing. I would recommend this service to every parent.This is good a thing. I would recommend this service to every parent.This is good a thing. I would recommend this service to every parent.
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div>
+                        <img class="img-circle" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                        This is good a thing. I would recommend this service to every parent.This is good a thing. I would recommend this service to every parent.This is good a thing. I would recommend this service to every parent.
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div>
+                        <img class="img-circle" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                        This is good a thing. I would recommend this service to every parent.This is good a thing. I would recommend this service to every parent.This is good a thing. I would recommend this service to every parent.
+                    </div>
+                </div>
+
+        </div>
+        <div class="row">
+            <h4>Parent</h4>
+            <div class="col-lg-4">
+                <img class="img-square" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                <div>
+                    This is good a thing. I would recommend this service to every parent.
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <img class="img-square" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                <div>
+                    This is good a thing. I would recommend this service to every parent.
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <img class="img-square" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                <div>
+                    This is good a thing. I would recommend this service to every parent.
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <h4>Child counsellors and psychiatrists</h4>
+            <div class="col-lg-4">
+                <img class="img-circle" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                <div>
+                    This is good a thing. I would recommend this service to every parent.
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <img class="img-circle" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                <div>
+                    This is good a thing. I would recommend this service to every parent.
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <img class="img-circle" src="wp-content/themes/buddy-theme/img/img-testimonial.png" alt="Generic placeholder image">
+                <div>
+                    This is good a thing. I would recommend this service to every parent.
+                </div>
+            </div>
+        </div>
+      </div><!-- end testimonials -->
+
+
+
+
+
+
+
+<!---------------- start pricing ------------------>
+      <div class="container pricing">
+          <div class="pricing-title">Member Subscription rates</div>
+          <br />
+          <div class="price">
+              <ul>
+                  <li>Basic Plan</li>
+                  <li>Rs. 600/month</li>
+                  <li>Perfect for introducing learning toys to toddlers.</li>
+                  <li>Rs. 500 Registration fee</li>
+                  <li>Rs. 1,500 security deposit</li>
+                  <li>Period of hire: WEEKLY</li>
+                  <li>2 Toys per week. (Book/CD/Puzzle extra)</li>
+                  <li>12 Month :
+                      <span style="text-decoration:line-through;">Rs. 7,200</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 6,480</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">10% (Rs.720) Saving!</span></strong></em></span>
+                  </li>
+                  <li>6 Month :
+                      <span style="text-decoration:line-through;">Rs. 3,600</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 3,420</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">5% (Rs.360) Saving!</span></strong></em></span>
+                  </li>
+                  <li>3 Month :
+                      <span style="text-decoration:line-through;">Rs. 1,800</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 1,746</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">3% (Rs.216) Saving!</span></strong></em></span>
+                  </li>
+                  <li>
+                        <strong>1 Month TRIAL : Rs. 600</strong>
+                  </li>
+                  <li>No discount on Partyy orders.</li>
+                  <li>Fixed days of delivery and pickup</li>
+                  <li>No discount on Outdoor toys </li>
+                  <li>Alloted as and when available </li>
+                  <li><a href="#" class="buy_now">Buy Now</a></li>
+              </ul>
+
+				<ul>
+					<li>Popular Plan</li>
+                  <li>Rs. 500/month</li>
+                  <li>Perfect for toddlers and book lovers.</li>
+                  <li>Rs. 500 Registration fee</li>
+                  <li>Rs. 1,000 security deposit</li>
+                  <li>Period of hire: WEEKLY</li>
+                  <li>1 Toy + 1 Book/CD/Puzzle per week</li>
+                  <li>12 Month :
+                      <span style="text-decoration:line-through;">Rs. 6,000</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 5,400</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">10% (Rs.600) Saving!</span></strong></em></span>
+                  </li>
+                  <li>6 Month :
+                      <span style="text-decoration:line-through;">Rs. 3,000</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 2,850</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">5% (Rs.300) Saving!</span></strong></em></span>
+                  </li>
+                  <li>3 Month :
+                      <span style="text-decoration:line-through;">Rs. 1,500</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 1,455</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">3% (Rs.180) Saving!</span></strong></em></span>
+                  </li>
+                  <li>
+                        <strong>1 Month TRIAL : Rs. 500</strong>
+                  </li>
+                  <li>Sp. Discount on Party orders.</li>
+                  <li>Prefernce for delivery days.</li>
+                  <li>No discount on Outdoor toys </li>
+                  <li>Alloted as and when available </li>
+                   <li><a href="#" class="buy_now">Buy Now</a></li>
+				</ul>
+
+				<ul>
+					<li>Genius Plan</li>
+                  <li>Rs. 700/month</li>
+                  <li>For the curious, energetic high growth learners</li>
+                  <li>Rs. 500 Registration fee</li>
+                  <li>Rs. 2,000 security deposit</li>
+                  <li>Period of hire: WEEKLY</li>
+                  <li>2 Toys + 2 Books/CDs/Puzzles</li>
+                  <li>12 Month :
+                      <span style="text-decoration:line-through;">Rs. 8,400</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 7,560</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">10% (Rs.840) Saving!</span></strong></em></span>
+                  </li>
+                  <li>6 Month :
+                      <span style="text-decoration:line-through;">Rs. 4,200</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 3,990</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">5% (Rs.420) Saving!</span></strong></em></span>
+                  </li>
+                  <li>3 Month :
+                      <span style="text-decoration:line-through;">Rs. 2,100</span>
+                      <br />
+                      <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 2,037</strong>
+                      <br />
+                      <span style="color: red;"><em><strong><span style="text-decoration: underline;">3% (Rs.252) Saving!</span></strong></em></span>
+                  </li>
+                  <li>
+                        <strong>1 Month TRIAL : Rs. 700</strong>
+                  </li>
+                  <li>Sp. Discount on Party orders.</li>
+                  <li>Prefernce for delivery days.</li>
+                  <li>Sp. Discount on Outdoor toys.</li>
+                  <li>First preference to hire latest Toys and Books.</li>
+                  <li><a href="#" class="buy_now">Buy Now</a></li>
+				</ul>
+          </div> <!-- end price -->
+          <div class="price-sidebar">
+            <h4>Summer Offer:</h4>
+            <ol>
+                <li>You can start with the 1 month TRIAL offer. You just have to pay the balance when you upgrade it to 3,6, or 12 months.</li>
+                <li>Get 3% discount on ’3 month package’</li>
+                <li>Get 5% discount AND 1 EXTRA week FREE on ’6 months package’</li>
+                <li>Get 10% discount AND 1 EXTRA month FREE on ’12 months package’</li>
+            </ol>
+          </div><!--price-sidebar-->
+      </div> <!-- pricing -->
+
+
+
+
+<!---------------------- Contact Us ----------------------------------------------->
+      <div class="contactus" id="contactus">
+          <div class="contactus-title">Contact us</div>
+          <div class="row">
+              <div class="col-lg-6">
+                  <div id="find-us" class="col-lg-4" style="top: 0px;">
+                      <h4>Find Us</h4>
+                      <ul class="unstyled">
+                          <li><span class="glyphicon glyphicon-map-marker"></span> <span class="findus">via Post:</span> 73/3/2, Bhakti Marg, Law College Road, Pune-4, IN</li>
+                          <li><span class="glyphicon glyphicon-earphone"></span> <span class="findus">via Phone:</span> 091 966 501 2897</li>
+                          <li><span class="glyphicon glyphicon-print"></span> <span class="findus">via Fax:</span> 091 020 2543 2872</li>
+                          <li><span class="glyphicon glyphicon-envelope"></span> <span class="findus">via Email:</span> <a href="mailto:mohan@toybuddy.in" class="email-link">mohan@toybuddy.in</a></li>
+                      </ul>
+                      <ul class="unstyled social">
+                          <li>
+                              <a href="https://www.facebook.com/Fireupandstartup">
+                                  <span class="sprite-social fb-icon"></span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="https://twitter.com/fireupstartup">
+                                  <span class="sprite-social tw-icon"></span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="https://plus.google.com/100130203793580838566/about">
+                                  <span class="sprite-social gp-icon"></span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="http://pinterest.com/valuefacture">
+                                  <span class="sprite-social pt-icon"></span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="http://in.linkedin.com/in/mohanlate/">
+                                  <span class="sprite-social ln-icon"></span>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="http://www.youtube.com/valuefacture">
+                                  <span class="sprite-social yt-icon"></span>
+                              </a>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+              <div class="col-lg-6">
+                  <h4>Sign up now!</h4>
+                  [contact-form-7 id="10" title="Contact form 1"]
+              </div>
+          </div>
+      </div>
