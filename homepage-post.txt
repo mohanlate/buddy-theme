@@ -195,20 +195,13 @@
                             <p class="quote">"Minds are like parachutes, they only function when they are open."</p>
                             <p class="text-right"><strong> —James Dewar </strong></p>
                             <p>
-                                Our team of child experts have mix of backgrounds in child psychology, child development and game based learning methodology.
-                            </p>
-                            <p>
-                                Once you register with you, one of our child expert will visit you. She is like your personal child counsellor. She will evalute your child's learning abilities and skills. Based on her discussions with you, she will fill out a form that contains details of your child's specific and unique learning requirements. This information is fed in our record system.
-                            </p>
-                            <p>
-                                Based on the evaluation of your child and his unique learning requirements, a package of learning resources is assigned to your child each week.
-                            </p>
-                            <p>
-                                We then collect information on your child's performance with the learning resource to understand his coginitive development.
-                            </p>
-                            <p>
-                                Our child expert will stay with your child, continuously evaluating and assigning learning packages to help your child continue her learning journey.
-                            </p>
+Our team of child experts come from varied backgrounds. They posses a mix of several years of rich experiences in the fields of child psychology, child development and game based learning methodology.
+
+Once you register with us, one of our child experts is assigned to you. She will visit you personally to understand your child’s learning abilities and skills. Based on her discussions with you, she will fill out a form that contains details of your child’s specific and unique learning requirements. This information is fed in our record system.
+
+Based on the evaluation of your child and his unique learning requirements, a package of learning resources is assigned to your child each week. We then collect information on your child’s performance with the learning resource to understand his cognitive development.
+
+Our child expert will stay with your child, continuously evaluating and assigning learning packages to help your child continue her learning journey.She will works just as a personal child counselor.                             </p>
                         </div>
                     </div>
                 </div>
@@ -356,7 +349,7 @@
 
 <!---------------- start pricing ------------------>
       <div class="container pricing">
-          <div class="pricing-title">Member Subscription rates</div>
+          <div class="pricing-title">Membership Plans</div>
           <br />
           <div class="price">
               <ul>

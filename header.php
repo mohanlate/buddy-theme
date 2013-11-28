@@ -46,10 +46,8 @@
 <!-- NAVBAR
 ================================================== -->
   <body data-spy="scroll" data-target=".navbar">
-
     <div class="navbar-wrapper">
       <div class="container">
-
         <div class="navbar navbar-static-top" role="navigation">
           <div class="container">
             <div class="navbar-header">
@@ -109,10 +107,10 @@
           <div class="container">
             <div class="carousel-caption">
              	<div class="carousal-text">
-					Only age-appropriate learning resources matching YOUR CHILD's educational and recreational needs.
+					Get age-appropriate learning resources matching YOUR CHILD's educational and recreational needs.
 				</div>
               <br />
-              <p><a class="btn btn-lg btn-info" href="#" role="button">Get 1 month Free trial package</a></p>
+              <p><a class="btn btn-lg btn-success" href="#" role="button">Get 1 month Free trial package</a></p>
             </div><!-- end carousal-caption -->
           </div><!-- end container -->
         </div><!-- end item -->
