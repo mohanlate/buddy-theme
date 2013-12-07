@@ -43,8 +43,7 @@
 		?>
 	</head>
 
-<!-- NAVBAR
-================================================== -->
+<!-- NAVBAR================================================== -->
   <body data-spy="scroll" data-target=".navbar">
     <div class="navbar-wrapper">
       <div class="container">
@@ -71,7 +70,7 @@
                         <li><a href="#contactus">Register</a></li>
                     </ul>
             </div>
-              <div class="tagline">INDIA'S FIRST e-LIBRARY OF GUIDED LEARNING RESOURCES</div>
+              <!--<div class="tagline">INDIA'S FIRST e-LIBRARY OF GUIDED LEARNING RESOURCES</div>-->
           </div>
         </div>
 
@@ -87,8 +86,8 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
-<!--        <li data-target="#myCarousel" data-slide-to="3"></li>
-        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+<!--        <li data-target="#myCarousel" data-slide-to="4"></li>
         <li data-target="#myCarousel" data-slide-to="5"></li>
 -->      </ol>
       <div class="carousel-inner">
@@ -96,9 +95,20 @@
           <div class="container">
             <div class="carousel-caption">
               <div class="carousal-text">
-				Get a Child development Expert to continously evaluate YOUR CHILD and work on her development.
+				<strong>INDIA'S First e-Library Of Guided Learning Resources</strong>
               </div>
-              <br />
+              <br /><br /><br /><br /><br /><br />
+              <p></p>
+            </div><!-- end carousal-caption -->
+          </div><!-- end container -->
+        </div><!-- end item -->
+        <div class="item">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="carousal-text">
+				Get age-appropriate learning resources matching the educational and recreational needs of <strong>YOUR CHILD</strong>.
+              </div>
+              <br /><br />
               <p><a class="btn btn-lg btn-success" href="#contactus" role="button">Register for Free evaluation</a></p>
             </div><!-- end carousal-caption -->
           </div><!-- end container -->
@@ -107,9 +117,9 @@
           <div class="container">
             <div class="carousel-caption">
              	<div class="carousal-text">
-					Get age-appropriate learning resources matching YOUR CHILD's educational and recreational needs.
+					Get a Child development Expert to continuously evaluate and work on the development of <strong>YOUR CHILD</strong>.
 				</div>
-              <br />
+              <br /><br />
               <p><a class="btn btn-lg btn-success" href="#" role="button">Get 1 month Free trial package</a></p>
             </div><!-- end carousal-caption -->
           </div><!-- end container -->
@@ -118,9 +128,9 @@
 			<div class="container">
             <div class="carousel-caption">
              	<div class="carousal-text">
-             		Discuss child/school related issues with other parents, educators and child psychiatrists online.
+             		Discuss online with other parents, educators and child psychiatrists issues related to school and <strong>YOUR CHILD</strong>.
              	</div>
-                <br />
+                <br /><br />
               	<p>
               		<a class="btn btn-lg btn-success" href="#contactus" role="button">Ask your question now!</a>
               	</p>

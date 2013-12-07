@@ -8,7 +8,7 @@
           </div>
           <div class="col-sm-4">
             <div class="div-copyright">
-              &copy; 2013 ToyLuv.com
+              &copy; 2013 ToyBuddy.com
             </div>
           </div>
           <div class="col-sm-4">

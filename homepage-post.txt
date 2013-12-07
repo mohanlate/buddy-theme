@@ -10,9 +10,9 @@
                       <img class="img-square" src="wp-content/themes/buddy-theme/img/step1.png" alt="Generic placeholder image">
                    </div>
                    <h2 class="step-heading">Step 1</h2>
-                   <p>Register from your desktop, mobile or iPad. Existing members can use the e-library system to browse and define their learning resources preferences.</p>
+                   <p>Register from your desktop, mobile or iPad. <br />Existing members can use the online library to book and set their learning resources preferences.</p>
                 </div>
-            </div><!-- end step1 -->
+            </div>
 
             <div class="col-lg-2">
                 <img class="corner-arrows-0" src="wp-content/themes/buddy-theme/img/top-to-bottom.png" />
@@ -22,7 +22,7 @@
                 <div class="step-text">
                     <div class="step-img"><img class="img-square" src="wp-content/themes/buddy-theme/img/step2.png" alt="Step 2"></div>
                     <h2 class="step-heading">Step 2</h2>
-                    <p>Our child expert visits you to evaluate your child learning abilities, preferences, likings, etc.</p>
+                    <p>Our child development expert visits you and evaluates your child's learning abilities, preferences, likings, etc.</p>
 
 </div>
             </div><!-- end step2 -->
@@ -103,17 +103,19 @@
                             <p class="quote">"Play is our brain's favorite way of learning"</p>
                             <p class="text-right"><strong>- Diane Ackerman</strong></p>
                             <p>
-                                Our unique model is based on a holistic approach to child development and growth. This model is based on all round skil development and cognitive development of your child.
+                                Our unique model is based on a holistic approach to child development and growth. This model is based on all round skill development and cognitive development of your child.
                             </p>
                             <p>
-                                The model brings together the best out of educators, parents and child development experts who can contribute towards the all-round development of the child.
+                                The model brings together the best out of <a href="http://toyluv.in/#myTab2">parents</a>, <a href="http://toyluv.in/#myTab3">educators </a>and <a href="http://toyluv.in/#myTab4">child development experts</a> who contribute towards the all-round development of the child through their participation in their own right and capacity.
                             </p>
                             <p>
                                 Children love to play with toys and spend lot of their time in playing with them. Children are introduced to toys at an early age.
                             </p>
                             <p>
                                 Our model utilizes the bonding children have with toys and their interest in games to deliver learning and skill development. We use the same channel and medium to introduce children to education.
-                                Our child experts continously scan the universe of toys, international and national, and evaluate them for their educational value as well as recreational quality.
+</p>
+<p>
+                                Our child experts continuously scan the universe of toys, international and national, and evaluate them for their educational value as well as recreational quality.
                             </p>
                         </div>
                     </div>
@@ -132,25 +134,10 @@
                             <p class="quote">"We may not be able to prepare the future for our children, but we can at least prepare our children for the future."</p>
                             <p class="text-right"><strong>- Franklin D. Roosevelt</strong></p>
                             <p>
-                                Our unique model is based on a holistic approach to child development and growth. This model is based on all round skil development and cognitive development of your child.
+                                So we smooth-en the transition of your child from toy playing to classroom education by throwing out useless toys and replacing them with educational toys. Thus we bring toys to classroom and the classroom to your home through our model of learning resources.
                             </p>
                             <p>
-                                The model brings together the best out of educators, parents and child development experts who can contribute towards the all-round development of the child.
-                            </p>
-                            <p>
-                                Children love to play with toys and spend lot of their time in playing with them. Children are introduced to toys at an early age.
-                            </p>
-                            <p>
-                                Our model utilizes the bonding children have with toys and their interest in games to deliver learning and skill development. We use the same channel and medium to introduce children to education.
-                            </p>
-                            <p>
-                                Our child experts continously scan the universe of toys, international and national, and evaluate them for their educational value as well as recreational quality.
-                            </p>
-                            <p>
-                                So we smoothen the transition of your child from toy playing to classroom education by throwing out useless toys and replacing them with educational toys. Thus we bring toys to classroom and the classroom to your home through our model of learning resources.
-                            </p>
-                            <p>
-                                Our e-library of learning resources have specific learning outcomes. Our expert recommendations assigns learning resource package to your child depending on his or her specific learning abilities, gaps, recreational needs and preferences. We collect performance measures from you when we pick up toys. This allows us to measure your child's growth and assign next package. The elibrary and home delivery of sanitized, packaged, non-toxic and fresh learning resources saves a lot of your hard earned money.
+                                Our e-library of learning resources have specific learning outcomes. Our expert recommendations assigns learning resource package to your child depending on his or her specific learning abilities, gaps, recreational needs and preferences. We collect performance measures from you when we pick up toys. This allows us to measure your child's growth and assign next package. The e-library and home delivery of sanitized, packaged, non-toxic and fresh learning resources saves a lot of your hard earned money.
 
                             </p>
                         </div>
@@ -232,7 +219,7 @@ Our child expert will stay with your child, continuously evaluating and assignin
                         Discussions are guided by child experts who have background in the field of child
                     development, child psychology, paedtrics, child educatio and counselling.
                     </p>
-                    <div class="discuss-cta"><a class="btn btn-sm btn-primary"  href="#contactus" role="button">Register for 1 month Frree trial</a></div>
+                    <div class="discuss-cta"><a class="btn btn-sm btn-primary"  href="http://parentnetwork.toybuddy.in/" role="button">Register for 1 month Frree trial</a></div>
               </div>
               <div class="col-lg-4 discuss-well">
                   <h3>Make friends on social media</h3>
@@ -348,7 +335,7 @@ Our child expert will stay with your child, continuously evaluating and assignin
 
 
 <!---------------- start pricing ------------------>
-      <div class="container pricing">
+      <div class="container pricing" id="pricing">
           <div class="pricing-title">Membership Plans</div>
           <br />
           <div class="price">
@@ -362,23 +349,17 @@ Our child expert will stay with your child, continuously evaluating and assignin
                   <li>2 Toys per week. (Book/CD/Puzzle extra)</li>
                   <li>12 Month :
                       <span style="text-decoration:line-through;">Rs. 7,200</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 6,480</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">10% (Rs.720) Saving!</span></strong></em></span>
                   </li>
                   <li>6 Month :
                       <span style="text-decoration:line-through;">Rs. 3,600</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 3,420</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">5% (Rs.360) Saving!</span></strong></em></span>
                   </li>
                   <li>3 Month :
                       <span style="text-decoration:line-through;">Rs. 1,800</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 1,746</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">3% (Rs.216) Saving!</span></strong></em></span>
                   </li>
                   <li>
@@ -401,23 +382,17 @@ Our child expert will stay with your child, continuously evaluating and assignin
                   <li>1 Toy + 1 Book/CD/Puzzle per week</li>
                   <li>12 Month :
                       <span style="text-decoration:line-through;">Rs. 6,000</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 5,400</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">10% (Rs.600) Saving!</span></strong></em></span>
                   </li>
                   <li>6 Month :
                       <span style="text-decoration:line-through;">Rs. 3,000</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 2,850</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">5% (Rs.300) Saving!</span></strong></em></span>
                   </li>
                   <li>3 Month :
                       <span style="text-decoration:line-through;">Rs. 1,500</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 1,455</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">3% (Rs.180) Saving!</span></strong></em></span>
                   </li>
                   <li>
@@ -440,23 +415,17 @@ Our child expert will stay with your child, continuously evaluating and assignin
                   <li>2 Toys + 2 Books/CDs/Puzzles</li>
                   <li>12 Month :
                       <span style="text-decoration:line-through;">Rs. 8,400</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 7,560</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">10% (Rs.840) Saving!</span></strong></em></span>
                   </li>
                   <li>6 Month :
                       <span style="text-decoration:line-through;">Rs. 4,200</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 3,990</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">5% (Rs.420) Saving!</span></strong></em></span>
                   </li>
                   <li>3 Month :
                       <span style="text-decoration:line-through;">Rs. 2,100</span>
-                      <br />
                       <strong style="color: #990000; font-size: 1.35em; font-weight: normal; letter-spacing: -1px;">Rs. 2,037</strong>
-                      <br />
                       <span style="color: red;"><em><strong><span style="text-decoration: underline;">3% (Rs.252) Saving!</span></strong></em></span>
                   </li>
                   <li>
@@ -470,7 +439,7 @@ Our child expert will stay with your child, continuously evaluating and assignin
 				</ul>
           </div> <!-- end price -->
           <div class="price-sidebar">
-            <h4>Summer Offer:</h4>
+            <h4>Limited Offer:</h4>
             <ol>
                 <li>You can start with the 1 month TRIAL offer. You just have to pay the balance when you upgrade it to 3,6, or 12 months.</li>
                 <li>Get 3% discount on ’3 month package’</li>

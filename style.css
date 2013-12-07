@@ -96,7 +96,7 @@ body {
 /* Carousel base class */
 
 .carousel-div {
-	background-image: url(img/bg-header-new.png);
+	background-image: url(img/bg-header-new-glass.png);
 	background-size:cover;
 	margin-top: -15px;
 }
@@ -109,13 +109,10 @@ body {
 
 
 .carousal-text {
-	font-size: 48px;
-/*	color:rgb(40,73,90);
-	text-shadow: 2px 2px 8px white;
-*/	
+	font-size: 42px;
 	color:white;
 	text-shadow: 2px 2px 8px rgb(40,73,90);
-	
+	font-family:"ln";
 }
 
 
@@ -307,7 +304,7 @@ body {
 
 .howitworks-title {
 	color:#0e1497;
-	text-shadow:1px 8px 10px #ffff00;
+	text-shadow:1px 8px 10px #fbfe00;
 /*	font-family:'AGENO', helvetica;*/
 	font-family:"AGENO";
 	font-size:24px;
@@ -425,7 +422,7 @@ body {
 
 
 .step-heading{
-	text-shadow:4px 4px 5px #ffff00;
+	text-shadow:1px 8px 10px #fbfe00;
 }
 
 .step-text {
